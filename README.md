@@ -16,7 +16,7 @@ This project is a backend for a money lending application similar to apps like S
 
 ### 3. Show User Data
 - **Endpoint:** GET `/user`
-- **Functionality:** Shows user data including Purchase Power amount, phone number, email, date of user registration, DOB, and monthly salary.
+- **Functionality:** Shows user data including **Purchase Power amount(as not mentioned taken default as salary)**, phone number, email, date of user registration, DOB, and monthly salary.
 ![image](https://github.com/user-attachments/assets/cb084e9b-49ab-41aa-a0ef-87e570d38d78)
 
 ### 4. Borrow Money API
